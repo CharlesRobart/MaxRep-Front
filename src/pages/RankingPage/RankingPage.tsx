@@ -166,9 +166,6 @@ const RankingPage = () => {
     // useEffect(() => {
     //     getBestScores(queryParams);
     // }, [])
-
-    
-
     
 
     const handleChange = (e: React.ChangeEvent<HTMLInputElement | HTMLSelectElement>) => {
